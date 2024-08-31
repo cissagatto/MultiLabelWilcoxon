@@ -1,0 +1,7 @@
+"";"zeros";"statistic";"parameter";"p.value";"location.shift";"alternative";"method";"result_status"
+"Model_1_Model_2";2;59;"";0,12608955395259;0;"two.sided";"Wilcoxon signed rank test with continuity correction";"methods are not different"
+"Model_1_Model_3";0;24;"";0,0787915035643527;0;"two.sided";"Wilcoxon signed rank test with continuity correction";"methods are not different"
+"Model_1_Model_4";0;36;"";0,315174424989568;0;"two.sided";"Wilcoxon signed rank test with continuity correction";"methods are not different"
+"Model_2_Model_3";0;10;"";0,00837384906674997;0;"two.sided";"Wilcoxon signed rank test with continuity correction";"methods are different"
+"Model_2_Model_4";0;10;"";0,00837384906674997;0;"two.sided";"Wilcoxon signed rank test with continuity correction";"methods are different"
+"Model_3_Model_4";0;69;"";0,315174424989568;0;"two.sided";"Wilcoxon signed rank test with continuity correction";"methods are not different"
