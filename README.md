@@ -12,7 +12,7 @@ The Wilcoxon Test Suite is a comprehensive set of R scripts designed for conduct
   title = {MultiLabelWilcoxon: A package to performing wilcoxon between many methods},  
   year = {2024},
   note = {R package version 0.1.0. Licensed under CC BY-NC-SA 4.0},
-  doi = {},
+  doi = {10.13140/RG.2.2.33711.96169},
   url = {https://github.com/cissagatto/MultiLabelWilcoxon}
 }
 ```
